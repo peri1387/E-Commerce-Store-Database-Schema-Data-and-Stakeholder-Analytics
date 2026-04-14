@@ -11,7 +11,7 @@ It includes database schema creation, data insertion, and analytical queries. Th
 - Sample data insertion
 - Analytical queries
 - Common Table Expressions (CTEs)
-- Views for reporting
+- Views for Stakeholders reporting 
 
 ## 🧑‍💻 Technologies Used
 - SQL (CTEs, Views, Joins)
