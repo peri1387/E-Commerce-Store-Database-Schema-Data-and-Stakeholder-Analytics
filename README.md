@@ -1,4 +1,4 @@
-# 🗄️ E-commerce Database Analysis
+# 🗄️ E-commerce Database Creation | Analysis | Stakeholders Analytics
 ---------------------------
 ## 🗂️ Project Overview
 This project focuses on designing and analyzing an e-commerce database using SQL. Data generated with AI prompt.
